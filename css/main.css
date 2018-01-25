@@ -10,8 +10,6 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  background-color: #e2e2e2;
-  font-family: sans-serif;
 }
 
 *, *::before, *::after {
